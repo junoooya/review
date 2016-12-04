@@ -1,3 +1,4 @@
 -r production.txt
 Django==1.10.4
 ipython
+django-debug-toolbar
